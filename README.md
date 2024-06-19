@@ -28,12 +28,28 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=88893&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=88893&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+</a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88893&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" />
+</a> 
 
+# 📦 Repositories :
+<a href="https://github.com/88893/Joshua.Portfolio">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Joshua.Portfolio" />
+</a>
+<a href="https://github.com/88893/Zenno-Webshop">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Zenno-Webshop" />
+</a>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<a href="https://github.com/88893/Laravel-CRUD">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Laravel-CRUD" />
+</a>
+<a href="https://github.com/88893/Old-Portfolio-page">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Old-Portfolio-page" />
+</a>
 
 
 
