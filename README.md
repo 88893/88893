@@ -1,4 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&random=false&width=435&lines=+Hi%2C+welcome+to+my+GitHub+page!+)](https://git.io/typing-svg)
 # 👋 Hi, I'm Joshua!
+🌱  I'm Joshua Mohanlal, an 18-year-old aspiring developer, constantly learning and working towards becoming a great developer. <br/> 
+Explore my projects and join me on my journey of growth and discovery in the world of software development.
+<br/>
+<br/>
 👩🏻‍💻 Software Developer sharing my journey and insights in tech <br/>
 👩🏻‍🎓 Currently studying Software Development at Graphic Lyceum, Rotterdam <br/>
 🎨 Developing websites to showcase my passion for web development <br/>
@@ -39,17 +44,25 @@
 <a href="https://github.com/88893/Joshua.Portfolio">
   <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Joshua.Portfolio" />
 </a>
-<a href="https://github.com/88893/Zenno-Webshop">
-  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Zenno-Webshop" />
+
+<a href="https://github.com/88893/Zenno.Webshop">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Zenno.Webshop" />
+</a>
+<br/>
+<a href="https://github.com/88893/Villas-For-U">
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Villas-For-U" />
 </a>
 
-<br/>
-<a href="https://github.com/88893/Laravel-CRUD">
-  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Laravel-CRUD" />
-</a>
-<a href="https://github.com/88893/Old-Portfolio-page">
+<a href="https://github.com/88893/Old-Portfolio-page" >
   <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=88893&theme=tokyonight&repo=Old-Portfolio-page" />
 </a>
+<br/>
+<br/>
+  <a href="https://github.com//">
+    <img alt="views" title="" src="https://freshidea.com/jonah/app/"/></a>
 
+<a href="https://github.com/88893/Old-Portfolio-page" >
+  <img align="center" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-purple?style=for-the-badge&logoColor=black&logo=issue-opened" />
+</a>
 
 
