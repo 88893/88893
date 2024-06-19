@@ -34,7 +34,7 @@ Explore my projects and join me on my journey of growth and discovery in the wor
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=88893&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=88893&show_icons=true&theme=radical" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88893&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" />
