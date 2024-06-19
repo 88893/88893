@@ -58,11 +58,8 @@ Explore my projects and join me on my journey of growth and discovery in the wor
 </a>
 <br/>
 <br/>
-  <a href="https://github.com//">
-    <img alt="views" title="" src="https://freshidea.com/jonah/app/"/></a>
-
-<a href="https://github.com/88893/Old-Portfolio-page" >
-  <img align="center" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-purple?style=for-the-badge&logoColor=black&logo=issue-opened" />
+<a href="https://github.com/88893?tab=repositories" >
+  <img align="center" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-181a26?style=for-the-badge&logoColor=black&logo=issue-opene" />
 </a>
 
 
